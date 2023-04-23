@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Maken Talep",
+    "slug": "maken-talep",
+    "owner": "tataroglu",
+    "version": "1.0.19",
+    "orientation": "portrait",
+    "icon": "./assets/icon-b.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.ttrgl.makentalep",
+      "buildNumber": "4"
+    },
+    "android": {
+      "versionCode": 11,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF",
+        "googleServicesFile": "./google-services.json"
+      },
+      "package": "com.tataroglu.makentalep"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9b0ccf43-31ec-499c-8d83-74c49ea48188"
+      }
+    }
+  }
+}

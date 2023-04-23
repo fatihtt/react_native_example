@@ -1,0 +1,21 @@
+{
+    "build": {
+        "development": {
+            "developmentClient": true,
+            "distribution": "internal"
+        },
+        "preview": {
+            "distribution": "internal"
+        },
+        "production": {}
+    },
+    "submit": {
+        "production": {
+            "ios": {
+                "appleId": "fthttrgl@gmail.com",
+                "ascAppId": "6443437792",
+                "appleTeamId": "HNW23Z5X5F"
+            }
+        }
+    }
+}

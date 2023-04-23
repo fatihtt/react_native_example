@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161291252501",
+    "project_id": "iskittfb",
+    "storage_bucket": "iskittfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161291252501:android:55ff52fdf53f3dcf1e6f1c",
+        "android_client_info": {
+          "package_name": "com.tataroglu.makentalep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161291252501-hlbaofc5v5qdias5lq9d1klerrlcni4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiBzNW-HmQJfo9WzxpgPR4XDSASP7Qh8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161291252501-hlbaofc5v5qdias5lq9d1klerrlcni4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
